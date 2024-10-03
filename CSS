@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<body>
+<html>
+<head>
+	<title>Meu site</title>
+	<link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+	<header>
+		<img src="https://cdn-images.rtp.pt/EPG/radio/imagens/6497_8819_66195.jpg?q=100&format=pjpg&auto=webp&v=3&w=400&w=150" alt="Centralized Image"> 
+		<h1>Seja bem vindo!</h1>
+		<h2>Meu nome <span>é Bianca</span></h2> 
+	</header>
+	<main>
+		<section id="gosto">
+			<h2>O que eu gosto?</h2>
+			<ul>
+	<li>Animais, cachorro </li>
+		<li>Comidas geladas</li>
+		<li>Viajar</li>
+		<li>Compras</li>	
+      </ul>
+		</section>
+		
+		<section id="nao-gosto">
+			<h2>O que eu não gosto?</h2>
+			<ul>
+		<li>Corrida</li>
+		<li>Tirar sangue</li>
+		<li>Sopa fria</li>
+		<li>Carne de boi</li>			
+      </ul>
+		</section>
+	</main>
+	
+</body>
+</html>
